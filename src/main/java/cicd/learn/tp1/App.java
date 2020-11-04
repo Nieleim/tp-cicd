@@ -11,5 +11,6 @@ public class App
         System.out.println( "CI/CD rocks!" );
         System.out.println("001");
         System.out.println("002");
+        System.out.println("V1.2");
     }
 }
